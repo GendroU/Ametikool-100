@@ -79,9 +79,10 @@ body {
     width: 50%;
 }
 
-.email {
+/* .email {
 
-}
+} */
+
 .address{
     display: flex;
     text-align: center;
