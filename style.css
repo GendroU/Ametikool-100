@@ -55,6 +55,8 @@ body {
 .conteiner{
   background-color: rebeccapurple;
   min-height: fit-content;
+  min-width: 200px;
+  flex-grow: 1;
   margin: 20px;
 }
 
