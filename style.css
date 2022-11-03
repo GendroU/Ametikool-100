@@ -197,6 +197,11 @@ body {
     flex-direction: column;
 }
 
+.pilt1 {
+  border: 2px solid black;
+  height: 40%;
+  width: 40%;
+}
 
 
 
