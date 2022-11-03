@@ -53,7 +53,7 @@ body {
 
 
 .conteiner{
-  background-color: rebeccapurple;
+  background-color: gray;
   min-height: fit-content;
   min-width: 200px;
   flex-grow: 1;
