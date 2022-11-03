@@ -62,7 +62,6 @@ body {
   margin: 20px;
   min-width: 320px;
   max-width: 1024px;
-  font-family: 'Lato';
   overflow: auto;
   
 }
@@ -167,7 +166,12 @@ body {
 /* galerii */
 
 
-
+.contactcontainer{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 1fr;
+  grid-gap: 10px;
+}
 
 .footer {
   color:white;
@@ -260,5 +264,8 @@ body {
 }
 
 @media(min-width: 1024px) {
+  .contactcontainer{
+  grid-template-columns: 1fr 1fr;
+  }
 }
 
