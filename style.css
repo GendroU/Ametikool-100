@@ -256,7 +256,7 @@ body {
 .contact{
   background-color: #717171;
   height: fit-content;
-  width: 300px;
+  width: fit-content;
 }
 
 .contact img{
