@@ -41,10 +41,6 @@ body {
   color: white;
 }
 
-.container {
-  display: inline-block;
-  cursor: pointer;
-}
 
 .menubutton {
   width: 35px;
@@ -58,9 +54,10 @@ body {
 .conteiner{
   background-color: gray;
   min-height: fit-content;
-  min-width: 200px;
   flex-grow: 1;
   margin: 20px;
+  min-width: 320px;
+  max-width: 1024px;
 }
 
 
