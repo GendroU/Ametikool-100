@@ -58,13 +58,13 @@ body {
   font-weight: lighter;
   font-size: 24px;
   color: black;
-  min-height: fit-content;
   flex-grow: 1;
   margin: 20px;
   min-width: 320px;
   max-width: 1024px;
   font-family: 'Lato';
-
+  overflow: auto;
+  
 }
 
 
@@ -242,5 +242,10 @@ body {
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
+.pilt1 {
+  border: 2px solid black;
+  width: 100%;
+}
+
 
 
