@@ -73,7 +73,7 @@ body {
 
   /* Slideshow container */
   .slideshow-container {
-    max-width: 1000px;
+    max-width: 1024px;
     position: relative;
     margin: auto;
   }
@@ -185,8 +185,8 @@ body {
     width: 50%;
 }
 
-.email {
-
+.email{
+  color: white;
 }
 .address{
     display: flex;
@@ -244,6 +244,17 @@ body {
 .show {display:block;}
 .pilt1 {
   border: 2px solid black;
+  width: 100%;
+}
+
+
+.contact{
+  background-color: #717171;
+  height: 400px;
+  width: 300px;
+}
+
+.contact img{
   width: 100%;
 }
 
