@@ -1,14 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 :root {
     --blue: #2A4A79;
 }
 .header {
-    width: 99vw;
+    width: 100vw;
     height: 80px;
     background-color: var(--blue);
 }
 .text {
-    width: 99vw;
-    height: calc(100vh - 250px);
+    width: 100vw;
+    height: calc(100vh - 180px);
 }
 
 .footer {
@@ -22,7 +28,7 @@
 }
 #map {
     height: 100%;
-    width: 25%;
+    width: 50%;
 }
 
 html,
@@ -36,6 +42,6 @@ body {
     color: black;
 }
 .address{
-    height: 50%;
-    width: 25%;
+    height: 100%;
+    width: 50%;
 }
