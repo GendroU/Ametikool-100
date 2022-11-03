@@ -58,13 +58,13 @@ body {
   font-weight: lighter;
   font-size: 24px;
   color: black;
-  min-height: fit-content;
   flex-grow: 1;
   margin: 20px;
   min-width: 320px;
   max-width: 1024px;
   font-family: 'Lato';
-
+  overflow: auto;
+  
 }
 
 
@@ -199,8 +199,7 @@ body {
 
 .pilt1 {
   border: 2px solid black;
-  height: 40%;
-  width: 40%;
+  width: 100%;
 }
 
 
