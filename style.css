@@ -202,5 +202,13 @@ body {
   width: 100%;
 }
 
-
+@media(min-width: 1024px) {
+  .textcontainer {
+    display: flex;
+    justify-content: center;
+  }
+  .pilt1{
+    width: 500px;
+  }
+}
 
