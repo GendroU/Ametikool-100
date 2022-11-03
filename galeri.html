@@ -11,21 +11,77 @@
         <script type="module" src="./index.js"></script>
     </head>
 <body>
-    <header class="header">
+  <header class="header">
         
-        <img src="Ametikool-100.jpg" alt="" class="headerimg"
-        height="50px">
-        
-        <h3 class="Menüü">Menüü</h3>
-
-        <div>	
-        <div class="menubutton"></div>
-        <div class="menubutton"></div>
-        <div class="menubutton"></div>
-        </div>
-    </header> 
+    <img src="Ametikool-100.jpg" alt="" class="headerimg"
+    height="50px">
     
-    <div class="container"></div>
+    <h3 class="Koduleht">Galerii</h3>
+
+    <div class="dropdown">	
+    
+    
+        <button onclick="myFunction()" class="dropbtn">
+            <div class="menubutton"></div>
+            <div class="menubutton"></div>
+            <div class="menubutton"></div></button>
+        <div id="myDropdown" class="dropdown-content">
+          <a href="/index.html">Koduleht</a>
+          <a href="/galeri.html">Galerii</a>
+          <a href="/kontaktid.html">Kontaktid</a>
+        </div>
+    </div>
+</header> 
+    
+    <div class="container" onclick="closenav()">
+        <div class="categroryvade">
+           <!-- Slideshow container -->
+          <div class="slideshow-container">
+      
+            <!-- Full-width images with number and caption text -->
+            <div class="mySlides fade">
+              <img src="image 9.png" style="width:100%">
+                <div class="text">2 Text</div>
+              </div>
+      
+            <div class="mySlides fade">
+              <img src="Ametikool-100.jpg" style="width:100%">
+              <div class="text">2 Text</div>
+            </div>
+      
+            <div class="mySlides fade">
+                <img src="Ametikool-100.jpg" style="width:100%">
+                <div class="text">2 Text</div>
+              </div>
+      
+              <div class="mySlides fade">
+                <img src="Ametikool-100.jpg" style="width:100%">
+                <div class="text">2 Text</div>
+              </div>
+      
+              <div class="mySlides fade">
+                <img src="Ametikool-100.jpg" style="width:100%">
+                <div class="text">2 Text</div>
+              </div>
+      
+            <!-- Next and previous buttons -->
+        
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+          </div>
+      
+      
+          <!-- The dots/circles -->
+          <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+          </div> 
+        </div>
+      </div>
+      
 
 
 
@@ -45,5 +101,6 @@
                 <a class="email" href="info@ametikool.ee">info@ametikool.ee</a> 
           </div>
     </footer>
+    <script src="app.js"></script>
 </body>
 </html>
