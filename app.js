@@ -2,10 +2,8 @@ document.onkeydown = (e) => {
   e = e || window.event;
   if (e.keyCode === 37) {
     plusSlides(-1)
-    console.log(slideIndex)
   } else if (e.keyCode === 39) {
     plusSlides(1)
-    console.log(slideIndex)
   }
 }
 
