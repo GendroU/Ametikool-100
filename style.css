@@ -258,7 +258,7 @@ body {
 .contact{
   background-color: #717171;
   height: fit-content;
-  width: fit-content;
+  width: 100%;
   justify-self: center;
 }
 
