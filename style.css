@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+    display: flex;  
+    justify-content: space-between;
+     
+    
+    max-width: 100%;
+    background: #2A4A79;
+    height: 50px;
+  }ˇ
+.headerimg{
+  height: 50px;
+}
+.Menüü {
+  color: white;
+}
