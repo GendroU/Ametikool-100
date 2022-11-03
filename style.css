@@ -59,7 +59,6 @@ body {
   font-size: 24px;
   color: black;
   flex-grow: 1;
-  margin: 20px;
   min-width: 320px;
   max-width: 1024px;
   overflow: auto;
@@ -171,6 +170,7 @@ body {
   grid-template-columns: 1fr;
   grid-auto-rows: auto;
   grid-gap: 10px;
+  align-items: center;
 }
 
 .footer {
@@ -256,7 +256,7 @@ body {
 .contact{
   background-color: #717171;
   height: fit-content;
-  width: 300px;
+  width: fit-content;
 }
 
 .contact img{
