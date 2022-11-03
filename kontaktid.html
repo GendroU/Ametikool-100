@@ -1,31 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <link rel="stylesheet" href="style.css">
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style.css">
-        <title>Ametikool-100</title>
-        <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-        <script type="module" src="./index.js"></script>
-    </head>
+<head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Lato">
+
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Ametikool-100</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script type="module" src="./index.js"></script>
+</head>
 <body>
     <header class="header">
         
         <img src="Ametikool-100.jpg" alt="" class="headerimg"
         height="50px">
         
-        <h3 class="Menüü">Menüü</h3>
+        <h3 class="Menüü">Kontaktid</h3>
 
-        <div>	
-        <div class="menubutton"></div>
-        <div class="menubutton"></div>
-        <div class="menubutton"></div>
+        <div class="dropdown">	
+        
+        
+            <button onclick="myFunction()" class="dropbtn">
+                <div class="menubutton"></div>
+                <div class="menubutton"></div>
+                <div class="menubutton"></div></button>
+            <div id="myDropdown" class="dropdown-content">
+              <a href="/index.html">Menüü</a>
+              <a href="/galeri.html">Galerii</a>
+              <a href="/kontaktid.html">Kontaktid</a>
+            </div>
         </div>
     </header> 
-    
-    <div class="container"></div>
+
+
+    <div class="conteiner">
+        <div class="textcontaner">
+            <img src="https://www.ametikool.ee/sites/ametikool.ee/files/ametikooli-logo_1.jpg" alt="" class="pilt1">
+            <h2>Tutvustus</h2>
+            <p>
+            Kuressaare Ametikool on Eesti kutsekool, mis asub Kuressaares aadressil Kohtu 22.
+
+            1922. aastal asutati Kuressaare Ehitusinstruktorite Kool, kuhu võeti vastu esimesed 19 õpilast. Seda võib pidada nii Kuressaare Ametikooli kui üldse järjepideva kutsehariduse andmise alguseks Saaremaal. 1930. aastatel õpetati koolis peamiselt ehitus-, puidu- ja metallitööd. 1950ndatel lisandusid põllumajanduserialad. 1970. aastail hakati andma keskharidust ning avati kodumajanduse-käsitöö-loomakasvatuse erialarühmad tütarlastele. 1990. aastast on kooli nimi Kuressaare Ametikool. 1998. aastal liideti Ametikool 1992 Upal alustanud Saaremaa Kutseõppekeskusega.
+            
+            Ametikoolis õpib 800 õpilast. Õppijaid on kõikidest Eesti maakondadest. Vanim õppija on 2020–2021 õppeaastal 71-aastane.
+            
+            Alates 1999. aastast on tänu PHARE projektidele koolist kujunenud piirkondlik koolituskeskus. Paljude Euroopa Liidu projektide toel pakutakse enamikule õpilaskonnast praktikat ka väljaspool Eestit.
+            </p>
+        </div>
+        
+    </div>
+
+
 
 
 
@@ -45,5 +74,8 @@
                 <a class="email" href="info@ametikool.ee">info@ametikool.ee</a> 
           </div>
     </footer>
+    <script src="app.js"></script>
+
+    
 </body>
 </html>
