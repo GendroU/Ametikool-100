@@ -7,9 +7,29 @@
 :root {
     --blue: #2A4A79;
 }
+<<<<<<< HEAD
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  
+}
+.header {
+  display: flex;  
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+    width: 100%;
+    height: 50px;
+=======
 .header {
     width: 100vw;
     height: 80px;
+>>>>>>> 9b1ed59b23de1a0328647847e456a4ca663ceb2f
     background-color: var(--blue);
     padding-right: 20px;
     
@@ -68,6 +88,8 @@ body {
 .address{
     height: 100%;
     width: 50%;
+    justify-content: center;
+    flex-direction: column;
 }
 
 /* Dropdown Button */
