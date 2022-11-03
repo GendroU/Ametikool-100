@@ -266,6 +266,7 @@ body {
 @media(min-width: 1024px) {
   .contactcontainer{
   grid-template-columns: 1fr 1fr;
+  align-items: center;
   }
 }
 
