@@ -14,12 +14,13 @@ Meeskond
 Üks tehniline oskus, mida õppisin ja endas arendasin
 Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
-Mattias Maasik
-Karel Maarma
-Keito Kaljulaid
-Gendro Umber
-Kevin Pihlak
-Jakob Vapper
+Mattias Maasik,
+Karel Maarma,
+Keito Kaljulaid,
+Gendro Umber,
+Kevin Pihlak,
+Jakob Vapper,
+
 
 wireframe idee visualiseerimine tahvlile
 Figma lõppdisaini valmis tegemine
