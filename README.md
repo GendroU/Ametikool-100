@@ -17,7 +17,7 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 Mattias Maasik
 Karel Maarma
 Keito Kaljulaid
-Kendro Umber
+Gendro Umber
 Kevin Pihlak
 Jakob Vapper
 
