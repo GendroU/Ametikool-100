@@ -28,3 +28,9 @@ html, css ja javascripti abil lehe tegemine
 Esimese päeva eesmärk oli luua suhtluskeskkond, git projekt ja lõplik lahendus figmas
 Teise päeva eesmärk oli teha veebileht vastavalt figmale
 Kolmanda päeva eesmärk oli täita töö bürokraatia osa
+
+
+Mattias
+  Kasut saadud teamdis kasulikult järgmistes projektides
+  Õppisn timi juhtimis ja suunamis
+  Sain teade et css on muutujad
