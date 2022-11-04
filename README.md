@@ -39,3 +39,20 @@ Keito
   1)Oskan järgmistes projektides paremini kasutada HTMLi ja CSSi ning koodi lugeda ja selle loogikast aru saada.
   2)Arendasin tiimitöö oskust.
   3)Koodilugemine, HTML, CSS githubi kasutamine - working tree, staging tree - loogika nende kasutamisel.
+  
+   Kevin
+   1)saan kasutada omandatud html ja css teadmisi jargmises projektis .
+   2)oppisin tiimiga rohkem koostööd tegema.
+   3)õppisin htmli ja css´i omavahelist seost.
+
+   Jakob
+   Arendasin tiimiga töötamist ja suhtlemist.
+   Õppisin pullimist.
+   Õppisin kuidas branchidega koodida.
+
+   Gendro
+   1) Õppisin paremini tiimitööd tegema
+   2) Õppisin kuidas teisi suunata ja arendasin endas kuidas rohkem tiimigia koostööd teha
+   3) Õppisin rohkem js ja rohkem githubi kasutamist
+
+   
