@@ -34,3 +34,8 @@ Mattias
   Kasut saadud teamdis kasulikult järgmistes projektides
   Õppisn timi juhtimis ja suunamis
   Sain teade et css on muutujad
+
+Keito
+  1)Oskan järgmistes projektides paremini kasutada HTMLi ja CSSi ning koodi lugeda ja selle loogikast aru saada.
+  2)Arendasin tiimitöö oskust.
+  3)Koodilugemine, HTML, CSS githubi kasutamine - working tree, staging tree - loogika nende kasutamisel.
