@@ -29,30 +29,39 @@ Esimese päeva eesmärk oli luua suhtluskeskkond, git projekt ja lõplik lahendu
 Teise päeva eesmärk oli teha veebileht vastavalt figmale
 Kolmanda päeva eesmärk oli täita töö bürokraatia osa
 
+   Mattias
+   1)Järgmises projektis oskan paremini tiimi tööd teha
+   2)Õppisn timi juhtimis ja suunamis
+   3)Sain teade et css on muutujad
 
-Mattias
-  1)Järgmises projektis oskan paremini tiimi tööd teha
-  2)Õppisn timi juhtimis ja suunamis
-  3)Sain teade et css on muutujad
-
-Keito
-  1)Oskan järgmistes projektides paremini kasutada HTMLi ja CSSi ning koodi lugeda ja selle loogikast aru saada.
-  2)Arendasin tiimitöö oskust.
-  3)Koodilugemine, HTML, CSS githubi kasutamine - working tree, staging tree - loogika nende kasutamisel.
+   Keito
+   1 Oskan järgmistes projektides paremini kasutada HTMLi ja CSSi ning koodi lugeda ja selle loogikast aru saada.
+   2) Arendasin tiimitöö oskust.
+   3) Koodilugemine, HTML, CSS githubi kasutamine - working tree, staging tree - loogika nende kasutamisel.
   
    Kevin
-   1)saan kasutada omandatud html ja css teadmisi jargmises projektis .
-   2)oppisin tiimiga rohkem koostööd tegema.
-   3)õppisin htmli ja css´i omavahelist seost.
+   1) saan kasutada omandatud html ja css teadmisi jargmises projektis .
+   2) oppisin tiimiga rohkem koostööd tegema.
+   3) õppisin htmli ja css´i omavahelist seost.
 
    Jakob
-   Arendasin tiimiga töötamist ja suhtlemist.
-   Õppisin pullimist.
-   Õppisin kuidas branchidega koodida.
+   1) Arendasin tiimiga töötamist ja suhtlemist.
+   2) Õppisin pullimist.
+   3) Õppisin kuidas branchidega koodida.
 
    Gendro
    1) Õppisin paremini tiimitööd tegema
    2) Õppisin kuidas teisi suunata ja arendasin endas kuidas rohkem tiimigia koostööd teha
    3) Õppisin rohkem js ja rohkem githubi kasutamist
 
+   Karel
+   1) õppisin tiimitõõd
+   2) õppisin HTMLi ja CSSi koodi kirjutamist
+   3) õppisin ubuntu Temporary failure in name resolution probleemi lahendama
+   
+   Arvestades tiimi liikmete koodi kirjutamise oskusi, ettetulnud erinevaid tehnilisi probleeme ja lühikest etteantud aega projekti elluviimiseks võib tulemusega rahule jääda
+  
+  
+  
+  
    
