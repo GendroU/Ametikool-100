@@ -31,9 +31,9 @@ Kolmanda päeva eesmärk oli täita töö bürokraatia osa
 
 
 Mattias
-  Kasut saadud teamdis kasulikult järgmistes projektides
-  Õppisn timi juhtimis ja suunamis
-  Sain teade et css on muutujad
+  1)Järgmises projektis oskan paremini tiimi tööd teha
+  2)Õppisn timi juhtimis ja suunamis
+  3)Sain teade et css on muutujad
 
 Keito
   1)Oskan järgmistes projektides paremini kasutada HTMLi ja CSSi ning koodi lugeda ja selle loogikast aru saada.
